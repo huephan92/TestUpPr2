@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_Login_CorrectPass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb4fac7f-571d-4fa2-ae78-c143cf63e2e4</testCaseGuid>
+</TestCaseEntity>
